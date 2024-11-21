@@ -1,0 +1,55 @@
+body{
+    font: normal 18pt Arial;
+    background-color: crimson;
+    color: white;
+}
+button{
+
+    background-color: crimson;
+    border-color: crimson;
+    color: white;
+}
+header{
+    margin-top: 100px;
+
+
+    text-align: center;
+    margin-bottom: 30px;
+}
+section#main{
+    text-align: center;
+}
+section#powerups{
+    margin-top: 40px;
+}
+div{
+    text-align: center;
+}
+#compra1{
+    margin-bottom: 40px;
+}
+#compra2{
+    margin-bottom: 40px;
+}
+#compra3{
+    margin-bottom: 40px;
+}
+#compra4{
+    margin-bottom: 40px;
+}
+
+#compra5{
+    margin-bottom: 40px;
+}
+#compra6{
+    margin-bottom: 40px;
+}
+
+#powerups{
+    margin: auto;
+    width: 700px;
+    height: 700px;
+    color: black;
+    border-radius: 30px;
+    background-color: azure;
+}
